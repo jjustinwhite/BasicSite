@@ -1,0 +1,6 @@
+C:\Users\Justin\Desktop\ECT 310\Homeworks\JWhiteHW1\JWhiteHW1\bin\JWhiteHW1.dll.config
+C:\Users\Justin\Desktop\ECT 310\Homeworks\JWhiteHW1\JWhiteHW1\bin\JWhiteHW1.dll
+C:\Users\Justin\Desktop\ECT 310\Homeworks\JWhiteHW1\JWhiteHW1\bin\JWhiteHW1.pdb
+C:\Users\Justin\Desktop\ECT 310\Homeworks\JWhiteHW1\JWhiteHW1\obj\Debug\JWhiteHW1.dll
+C:\Users\Justin\Desktop\ECT 310\Homeworks\JWhiteHW1\JWhiteHW1\obj\Debug\JWhiteHW1.pdb
+C:\Users\Justin\Desktop\ECT 310\Homeworks\JWhiteHW1\JWhiteHW1\obj\Debug\JWhiteHW1.csprojResolveAssemblyReference.cache
